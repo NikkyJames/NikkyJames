@@ -1,5 +1,5 @@
  Hi, I'm Nikky James 👋🏽
- Entry-Level Data Analyst
+ Entry-Level Data Analyst. 
 I am a Data Analyst with a Diploma in Data Analysis, focused on transforming data into meaningful insights that support better decision-making.
 Currently developing my skills in Artificial Intelligence and Machine Learning.
 
