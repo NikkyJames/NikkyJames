@@ -1,10 +1,9 @@
- Hi, I'm Nikky James 👋🏽
+ Hi, I am Nikky James 👋🏽
  Entry-Level Data Analyst. 
 I am a Data Analyst with a Diploma in Data Analysis, focused on transforming data into meaningful insights that support better decision-making.
 Currently developing my skills in Artificial Intelligence and Machine Learning.
 
-🛠️ Skills & Tools
-
+# 🛠️ Skills & Tools
 - Python
 - SQL
 - Excel
@@ -15,11 +14,11 @@ Currently developing my skills in Artificial Intelligence and Machine Learning.
 - Machine Learning
 - Artificial Intelligence
 
-📊 Featured Projects
- Retail Sales & Customer Analytics
+# 📊 Featured Projects
+Retail Sales & Customer Segmentation Analytics
 Exploratory analysis of retail sales data to understand customer demographics, product performance, revenue patterns, and profitability.
 
-**Tools:** Python, Pandas, Seaborn, Matplotlib
+# **Tools:** Python, Pandas, Seaborn, Matplotlib
 
  Customer Segmentation
 Customer segmentation using purchasing behaviour to identify distinct customer groups.
